@@ -11,18 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-    <p className="description">
+        <Header title="خصائص و مميزات هاتف ايفون 11 !" />
+        
          
  إنه عام 2022. هذا يعني أنه منذ ظهور ايفون 11 لأول مرة في عام 2019 ، رأينا بالفعل ايفون 13 و ايفون 12. (حتى أننا نبحث عن ايفون 
 
 14 و ايفونهذا العام). أن يكون عمرك أكثر من عامين ، لكنه قد يظل خيارًا جيدًا ، خاصة وأن أبل خفضته إلى 499 دولارًا العام الماضي. هناك العديد من العوامل التي يجب مراعاتها عند شراء ايفون جديد ، بالإضافة إلى السعر وميزانيتك الشخصية ، يجب أن تفكر في الميزات التي تحتاجها في الهاتف.
-        </p>
-    
-    <a href="https://sevenimgs.com/%d8%ae%d9%84%d9%81%d9%8a%d8%a7%d8%aa-%d8%a7%d9%8a%d9%81%d9%88%d9%86-%d9%81%d8%ae%d9%85%d9%87/" target="_blank">خلفيات ايفون فخمة</a>
+        </p><a href="https://sevenimgs.com/%d8%ae%d9%84%d9%81%d9%8a%d8%a7%d8%aa-%d8%a7%d9%8a%d9%81%d9%88%d9%86-%d9%81%d8%ae%d9%85%d9%87/" target="_blank">خلفيات ايفون فخمة</a>
      
    <p className="description">
           
